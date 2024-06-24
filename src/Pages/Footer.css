@@ -1,0 +1,24 @@
+
+/* .info-para{
+    width: 18rem;
+} */
+footer{
+    padding: 10rem 0 0rem 0;
+}
+.container-footer{
+    padding-bottom: 8rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+.icon {
+    color: black;
+}
+.list-inline-icons{
+    display: flex;
+    padding: 0  ;
+}
+
+.icon-p{
+    margin-right: 1rem;
+}

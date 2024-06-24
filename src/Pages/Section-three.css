@@ -1,0 +1,65 @@
+.services-intro{
+    padding: 2rem 5rem;
+}
+.projects-intro{
+
+    justify-content: space-around;
+    background-color: rgb(229, 229, 233);
+}
+.service-card {
+    background-color: rgb(88, 92, 92);
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 1rem;
+}
+
+
+.h2{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.service-card-description  {
+    width: 14rem;
+    text-align: left;
+    margin-top: 1.5rem;
+}
+.project-card-description {
+    text-align: left;
+}
+.projects-intro img {
+    width: 50rem;
+    height: 25rem;
+    margin-top: 70px;
+}
+.left{
+        height: 100%;
+        /* width: 30vw; */
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        overflow-x: hidden;
+
+
+}
+.display-4{
+     text-align: center;
+    font-weight: 600;
+    font:bolder 40px arial;
+}
+.text-sm{
+    text-align: center;
+    font-weight: 600;
+    font:bolder 40px arial;
+
+}
+.right{
+        margin-right: 30; 
+        padding: 0px 0px;
+        
+}
+
+
