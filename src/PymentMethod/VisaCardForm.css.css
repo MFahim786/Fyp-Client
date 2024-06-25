@@ -1,0 +1,50 @@
+/* .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+  } */
+  
+  .contentContainer {
+  
+    width: 140%;
+    height: 200%;
+  }
+  
+  .loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .webview {
+    flex: 1;
+    width: 100%;
+    height: calc(100vh - 60px); /* Adjust height as necessary */
+  }
+  
+  .button {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #007BFF;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .buttonText {
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: center;
+  }
+  

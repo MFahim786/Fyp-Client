@@ -12,6 +12,8 @@ const TData = [
     name: " ARCarnival - Pakistan",
     msg: "Did You want to try it out please scan Qr-Code and enjoy ",
     img1: Qrcode1,
+    type:"",
+    price:'Free',
   },
 
   {
@@ -23,6 +25,8 @@ const TData = [
     name: " ARCarnival - Pakistan",
     msg: "Did You want to try it out please scan Qr-Code and enjoy ",
     img1: Qrcode2,
+    type:"",
+    price:'Free',
   },
   {
     title: "Birthday Theme ",
@@ -33,6 +37,8 @@ const TData = [
     name: " ARCarnival - Pakistan",
     msg: "did you want to try it? ",
     img1: Qrcode1,
+    type:"Premium",
+    price:'40GB',
   },
 ];
 
